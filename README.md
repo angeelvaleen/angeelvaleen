@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
   ANGEL
-  <br>
 </h1>
 
 <p align="center">
@@ -56,28 +54,59 @@ Mi enfoque no es solo académico; es pragmático. Mientras curso mi Ingeniería 
 
 ## 📂 Roadmap de Proyectos
 
+<div align="center">
 <table width="100%">
-  <tr>
-    <th width="30%" align="left">Proyecto</th>
-    <th width="45%" align="left">Enfoque Técnico</th>
-    <th width="25%" align="center">Estado</th>
-  </tr>
-  <tr>
-    <td><b>🛰️ switchLogic</b></td>
-    <td>Arquitectura React + Vite / HMR</td>
-    <td align="center"><img src="https://img.shields.io/badge/Finalizado-222222?style=flat-square&logo=vercel&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><b>🏦 Bancosys</b></td>
-    <td>Persistencia MySQL / Lógica Java</td>
-    <td align="center"><img src="https://img.shields.io/badge/Finalizado-222222?style=flat-square&logo=vercel&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><b>🛡️ AZTECA</b></td>
-    <td>Stack LAMP / Seguridad Web</td>
-    <td align="center"><img src="https://img.shields.io/badge/Finalizado-222222?style=flat-square&logo=vercel&logoColor=white" /></td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="33.3%"><h3>🚀 Activos</h3></th>
+      <th width="33.3%"><h3>✅ Finalizados</h3></th>
+      <th width="33.3%"><h3>🧪 Futuros</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="center">
+        <div style="min-width: 250px;"></div>
+        <br>
+        <i>Próximamente...</i>
+        <br><br>
+      </td>
+      <td valign="top">
+        <div style="min-width: 250px;"></div>
+        <br>
+        <b>⚡ switchLogic</b><br>
+        <sub>Arquitectura moderna en React + Vite.</sub><br>
+        <img src="https://img.shields.io/badge/Status-Finalizado-black?style=flat-square" />
+        <br><br>
+        <b>🏦 Bancosys</b><br>
+        <sub>Gestión bancaria y persistencia en MySQL.</sub><br>
+        <img src="https://img.shields.io/badge/Status-Finalizado-black?style=flat-square" />
+        <br><br>
+        <b>🛡️ Proyecto AZTECA</b><br>
+        <sub>Manejo de datos bajo Stack LAMP.</sub><br>
+        <img src="https://img.shields.io/badge/Status-Finalizado-black?style=flat-square" />
+        <br><br>
+      </td>
+      <td valign="top">
+        <div style="min-width: 250px;"></div>
+        <br>
+        <b>📡 Gestión NFC</b><br>
+        <sub>Control de inventarios para cliente real.</sub><br>
+        <img src="https://img.shields.io/badge/Lab-Planning-blue?style=flat-square" />
+        <br><br>
+        <b>👵 CareTrack</b><br>
+        <sub>Sistema de cuidado para personas mayores.</sub><br>
+        <img src="https://img.shields.io/badge/Lab-Idea-blue?style=flat-square" />
+        <br><br>
+        <b>🦾 Gym-Tracker Pro</b><br>
+        <sub>Optimización de métricas de fuerza.</sub><br>
+        <img src="https://img.shields.io/badge/Lab-Idea-blue?style=flat-square" />
+        <br><br>
+      </td>
+    </tr>
+  </tbody>
 </table>
+</div>
 
 ---
 
