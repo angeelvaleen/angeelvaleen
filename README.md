@@ -54,7 +54,7 @@ Mi enfoque no es solo académico; es pragmático. Mientras curso mi Ingeniería 
 
 ---
 
-## 🏗️ Roadmap de Proyectos
+## 📂 Roadmap de Proyectos
 
 <table width="100%">
   <tr>
