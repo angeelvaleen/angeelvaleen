@@ -18,9 +18,11 @@
 </p>
 
 ---
-## 🚀 Ingeniería enfocada a la Ejecución Real
+## 🚀 Ingeniero de Sistemas | Full Stack Developer
 
-Mi enfoque no es solo académico; es pragmático. Mientras curso mi Ingeniería en Sistemas, cofundo una microempresa de software enfocada en entregar soluciones de alto impacto. No solo escribo código; diseño la arquitectura de datos, gestiono la lógica de negocio y aseguro el despliegue final en entornos Linux.
+Mi enfoque trasciende lo académico para centrarse en la resolución de problemas complejos. Como cofundador de una microempresa de desarrollo, lidero la creación de soluciones integrales "end-to-end". No solo picamos código; diseñamos ecosistemas digitales que equilibran seguridad robusta, alta complejidad técnica y una experiencia de usuario (UX) intuitiva y cómoda.
+
+Desde la arquitectura de bases de datos hasta interfaces reactivas de alto rendimiento, gestiono productos que están listos para el mundo real y entornos críticos en Linux.
 
 * **📡 Gestión NFC** | Proyecto empresarial activo; implementando tecnología de proximidad para control de inventarios para nuestro **primer cliente**.
 
