@@ -5,7 +5,7 @@
 <p align="center">
   <b>Ingeniero en Sistemas Computacionales</b>
   <br>
-  Backend Developer • 🐧 Linux Enthusiast • 🦾 Gym Disciplined
+ Full Stack Developer • 🐧 Linux Enthusiast • 🦾 Gym Disciplined
 </p>
 
 <p align="center">
