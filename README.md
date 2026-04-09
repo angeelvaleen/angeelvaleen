@@ -20,6 +20,13 @@
 </p>
 
 ---
+## 🚀 Ingeniería enfocada a la Ejecución Real
+
+Mi enfoque no es solo académico; es pragmático. Mientras curso mi Ingeniería en Sistemas, cofundo una microempresa de software enfocada en entregar soluciones de alto impacto. No solo escribo código; diseño la arquitectura de datos, gestiono la lógica de negocio y aseguro el despliegue final en entornos Linux.
+
+* **📡 Gestión NFC** | Proyecto empresarial activo; implementando tecnología de proximidad para control de inventarios para nuestro **primer cliente**.
+
+---
 
 ### 🛠️ Perfil Técnico (Stack)
 
