@@ -60,8 +60,8 @@
 ### 📈 Actividad & Métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterhstq-hays-projects.vercel.app/api?username=angeelvaleen&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterhstq-hays-projects.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
