@@ -99,10 +99,6 @@ Desde la arquitectura de bases de datos hasta interfaces reactivas de alto rendi
         <sub>Sistema de cuidado para personas mayores.</sub><br>
         <img src="https://img.shields.io/badge/Lab-Idea-blue?style=flat-square" />
         <br><br>
-        <b>🦾 Gym-Tracker Pro</b><br>
-        <sub>Optimización de métricas de fuerza.</sub><br>
-        <img src="https://img.shields.io/badge/Lab-Idea-blue?style=flat-square" />
-        <br><br>
       </td>
     </tr>
   </tbody>
