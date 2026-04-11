@@ -74,6 +74,9 @@ Desde la arquitectura de bases de datos hasta interfaces reactivas de alto rendi
         <sub>Pagina web y CHATBOT</sub><br>
         <img src="https://img.shields.io/badge/Lab-Planning-blue?style=flat-square" />
         <br><br>
+        <b>📡 AMJ Studio</b><br>
+        <sub>Pagina web</sub><br>
+        <img src="https://img.shields.io/badge/Lab-Planning-blue?style=flat-square" />
         <br><br>
       </td>
       <td valign="top">
