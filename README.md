@@ -70,7 +70,10 @@ Desde la arquitectura de bases de datos hasta interfaces reactivas de alto rendi
       <td valign="top" align="center">
         <div style="min-width: 250px;"></div>
         <br>
-        <i>Próximamente...</i>
+       <b>📡 HydricSabor</b><br>
+        <sub>Pagina web y CHATBOT</sub><br>
+        <img src="https://img.shields.io/badge/Lab-Planning-blue?style=flat-square" />
+        <br><br>
         <br><br>
       </td>
       <td valign="top">
@@ -92,10 +95,6 @@ Desde la arquitectura de bases de datos hasta interfaces reactivas de alto rendi
       <td valign="top">
         <div style="min-width: 250px;"></div>
         <br>
-        <b>📡 Gestión NFC</b><br>
-        <sub>Control de inventarios para cliente real.</sub><br>
-        <img src="https://img.shields.io/badge/Lab-Planning-blue?style=flat-square" />
-        <br><br>
         <b>👵 CareTrack</b><br>
         <sub>Sistema de cuidado para personas mayores.</sub><br>
         <img src="https://img.shields.io/badge/Lab-Idea-blue?style=flat-square" />
