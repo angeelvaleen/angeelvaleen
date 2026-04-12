@@ -1,6 +1,6 @@
-<div align=>
+<div align=">
 
-<img src="(https://raw.githubusercontent.com/angeelvaleen/angeelvaleen/main/logoangeel.jpg)" width="400" />
+<img src="https://raw.githubusercontent.com/angeelvaleen/angeelvaleen/main/logoangeel.jpg" alt="angeel system logo" width="400" />
 
 # Hey, I'm Ángel! 👋
 
@@ -15,11 +15,11 @@
 
 ---
 
-<div align=>
+<div align=">
 
 ## GitHub Stats & Languages 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git[...])
 
 ![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)
 ---
