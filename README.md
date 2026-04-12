@@ -7,11 +7,11 @@
 <img src="https://img.shields.io/github/stars/angeelvaleen?style=social" alt="Github Stars" />
 <img src="https://img.shields.io/github/followers/angeelvaleen?style=social" alt="Github Followers" />
 <br/>
-<br/>
-I am a Full Stack Developer & Systems Engineer from Mexico 🇲🇽 <br>
-• Visit my (#) <br>
-• Techstack: `.js`, `.jsx`, `node`, `linux`, `git` <br>
-• Founder of AMJ Studio 💡 <br>
+
+* **I am a Full Stack Developer from** México 🇲🇽 <br>
+* **Visit my** [personal website](#) <br>
+* **Techstack:** `.js`, `.jsx`, `node`, `linux`, `git` <br>
+* **Founder of** AMJ Studio 💡 <br>
 
 ---
 
