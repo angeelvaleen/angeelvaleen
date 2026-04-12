@@ -1,22 +1,24 @@
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-<h1 align="center">
+<h1 align=>
   ANGEL
 </h1>
 
-<p align="center">
+<p align=>
   <b>Ingeniero en Sistemas Computacionales</b>
   <br>
  Full Stack Developer • 🐧 Linux Enthusiast • 🦾 Gym Disciplined
 </p>
 
-<p align="center">
+<p align=>
   <i>"Transformando lógica en sistemas robustos y código en soluciones eficientes."</i>
 </p>
 
-<p align="center">
+<p align=>
   <a href="https://github.com/angeelvaleen"><img src="https://img.shields.io/badge/Status-Active_Developing-black?style=for-the-badge&logo=github&logoColor=white" alt="Status"></a>
   <a href="https://github.com/angeelvaleen"><img src="https://img.shields.io/badge/Focus-Cybersecurity-AA0000?style=for-the-badge&logo=fortinet&logoColor=white" alt="Focus"></a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
 ---
 ## 🚀 Ingeniero de Sistemas | Full Stack Developer
@@ -106,12 +108,6 @@ Desde la arquitectura de bases de datos hasta interfaces reactivas de alto rendi
   </tbody>
 </table>
 </div>
-
----
-
-### 📈 Actividad & Métricas
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
 ---
 
