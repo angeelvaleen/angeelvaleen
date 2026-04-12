@@ -1,3 +1,4 @@
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 <h1 align="center">
   ANGEL
 </h1>
@@ -23,8 +24,6 @@
 Mi enfoque trasciende lo académico para centrarse en la resolución de problemas complejos. Como cofundador de una microempresa de desarrollo, lidero la creación de soluciones integrales "end-to-end". No solo picamos código; diseñamos ecosistemas digitales que equilibran seguridad robusta, alta complejidad técnica y una experiencia de usuario (UX) intuitiva y cómoda.
 
 Desde la arquitectura de bases de datos hasta interfaces reactivas de alto rendimiento, gestiono productos que están listos para el mundo real y entornos críticos en Linux.
-
-* **📡 Gestión NFC** | Proyecto empresarial activo; implementando tecnología de proximidad para control de inventarios para nuestro **primer cliente**.
 
 ---
 
@@ -111,11 +110,8 @@ Desde la arquitectura de bases de datos hasta interfaces reactivas de alto rendi
 ---
 
 ### 📈 Actividad & Métricas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=nord&hide_border=true&title_color=000&text_color=555&icon_color=000&bg_color=FDFDFD" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=nord&hide_border=true&title_color=000&text_color=555&bg_color=FDFDFD" width="48%" />
-</p>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
 ---
 
