@@ -36,7 +36,9 @@
 
 ### Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](#)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/valencia-lopez-556499317?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](#)
+[<img src="https://img.shields.io/badge/Angeel.System-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://www.instagram.com/angeel.system/)
+[<img src="https://img.shields.io/badge/Softix.oficial-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://www.instagram.com/softix.oficial/)
 
 </div>
