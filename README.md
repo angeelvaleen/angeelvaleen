@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/followers/angeelvaleen?style=social" alt="Github Followers" />
 <br/>
 
-* **I am a Full Stack Developer from** México 🇲🇽 <br>
+* **I am a Full Frontend Developer from** México 🇲🇽 <br>
 * **Visit my** [personal website](#) <br>
 * **Techstack:** `.js`, `.jsx`, `node`, `linux`, `git` <br>
 * **Founder of** Softix 💡 <br>
