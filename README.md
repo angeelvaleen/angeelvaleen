@@ -11,7 +11,7 @@
 * **I am a Full Stack Developer from** México 🇲🇽 <br>
 * **Visit my** [personal website](#) <br>
 * **Techstack:** `.js`, `.jsx`, `node`, `linux`, `git` <br>
-* **Founder of** AMJ Studio 💡 <br>
+* **Founder of** Softix 💡 <br>
 
 ---
 
