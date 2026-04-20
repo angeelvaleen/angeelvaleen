@@ -12,7 +12,7 @@
 * **Visit my** [personal website](#) <br>
 * **Techstack:** `.js`, `.jsx`, `node`, `linux`, `git` <br>
 * **Founder of** Softix 💡 <br>
-* **Married** E <br
+* **Married** E  
 
 ---
 
