@@ -1,19 +1,20 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/angeelvaleen/angeelvaleen/main/logo.jpg" alt="angeel system logo" width="400" />
-
+  <a href="https://angeelsystem.vercel.app/" target="_blank">
+    <img src="logo2.jpeg" alt="angeel system logo" width="950" />
+  </a>
 </div>
+
 
 # Hey, I'm Ángel! 👋
 
-<img src="https://img.shields.io/github/stars/angeelvaleen?style=social" alt="Github Stars" />
-<img src="https://img.shields.io/github/followers/angeelvaleen?style=social" alt="Github Followers" />
-<br/>
+[![Stars](https://img.shields.io/github/stars/angeelvaleen?style=social)](https://github.com/angeelvaleen)
+[![Followers](https://img.shields.io/github/followers/angeelvaleen?style=social)](https://github.com/angeelvaleen)
 
-* **I am a Full Frontend Developer from** México 🇲🇽 <br>
-* **Visit my** https://mi-portafolio-kappa-black.vercel.app/ <br>
-* **Techstack:** `.js`, `.jsx`, `node`, `linux`, `git` <br>
-* **Founder of** Softix 💡 <br>
-* **Married to**  E 💕
+* **I am a Full Frontend Developer from** México 🇲🇽
+* **Visit my** https://angeelsystem.vercel.app/
+* **Techstack:** `.js`, `.jsx`, `node`, `linux`, `git`
+* **Founder of** Softix 💡
+* **Married to** E 💕
 
 ---
 
