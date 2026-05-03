@@ -8,7 +8,6 @@
 # Hey, I'm Ángel! 👋
 
 [![Stars](https://img.shields.io/github/stars/angeelvaleen?style=social)](https://github.com/angeelvaleen)
-
 [![Followers](https://img.shields.io/github/followers/angeelvaleen?style=social)](https://github.com/angeelvaleen)
 
 * **I am a Full Frontend Developer from** México 🇲🇽
