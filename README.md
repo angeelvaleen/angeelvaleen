@@ -8,6 +8,7 @@
 # Hey, I'm Ángel! 👋
 
 [![Stars](https://img.shields.io/github/stars/angeelvaleen?style=social)](https://github.com/angeelvaleen)
+
 [![Followers](https://img.shields.io/github/followers/angeelvaleen?style=social)](https://github.com/angeelvaleen)
 
 * **I am a Full Frontend Developer from** México 🇲🇽
@@ -23,7 +24,6 @@
 ## GitHub Stats & Languages 📊
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://github.com/angeelvaleen)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Tech Stack & Tools
