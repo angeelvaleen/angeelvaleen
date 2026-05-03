@@ -1,6 +1,7 @@
-<div align=">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/angeelvaleen/angeelvaleen/main/logoangeel.jpg" alt="angeel system logo" width="400" />
 
-<img src="https://raw.githubusercontent.com/angeelvaleen/angeelvaleen/main/logoangeel.jpg" alt="angeel system logo" width="400" />
+</div>
 
 # Hey, I'm Ángel! 👋
 
