@@ -23,8 +23,8 @@
 ## GitHub Stats & Languages 📊
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://github.com/angeelvaleen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=tokyonight)
 ---
 ### Tech Stack & Tools
 
