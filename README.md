@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://angeelsystem.vercel.app/" target="_blank">
-    <img src="logo2.jpeg" alt="angeel system logo" width="950" />
+    <img src="logo3.jpeg" alt="angeel system logo" width="950" />
   </a>
 </div>
 
