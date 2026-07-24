@@ -16,10 +16,12 @@
 
 # 🚀 About Me
 
-- 💻 Frontend Developer focused on modern web applications.
+- 💻 Frontend developer focused on modern web applications.
 - ⚛️ Passionate about React, Next.js and TypeScript.
-- 🌱 Currently learning Backend Architecture and Cloud.
-- 🎯 Always looking to build clean, scalable and performant applications.
+- 🌱 Currently learning Backend and Cloud Architecture.
+- 🎯 Always looking to create clean, scalable and high-performance applications.
+- 💍 Happily married to L ❤️
+- 🐶 Dog lover • 💪 Gym enthusiast
 
 ---
 
