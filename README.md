@@ -1,46 +1,59 @@
 <div align="center">
-  <a href="https://angeelsystem.vercel.app/" target="_blank">
-    <img src="logo3.jpeg" alt="angeel system logo" width="950" />
+  <img src="logo3.jpeg" alt="Angeel System" width="750" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(59, 130, 246, 0.3);"/>
+  
+  <h1>Hey, I'm Ángel Valencia 👋</h1>
+  <h3>Full Frontend Developer • México 🇲🇽</h3>
+
+  <a href="https://github.com/angeelvaleen">
+    <img src="https://komarev.com/ghpvc/?username=angeelvaleen&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Views"/>
   </a>
 </div>
 
+---
 
-# Hey, I'm Ángel Valencia! 👋
+### 📊 Activity & Stats
 
-[![Stars](https://img.shields.io/github/stars/angeelvaleen?style=social)](https://github.com/angeelvaleen)
-[![Followers](https://img.shields.io/github/followers/angeelvaleen?style=social)](https://github.com/angeelvaleen)
+<div align="center">
 
-* **I am a Full Frontend Developer from** México 🇲🇽
-* **Visit my** https://angeelsystem.vercel.app/
-* **Techstack:** `.js`, `.jsx`, `node`, `linux`, `git`
-* **Founder of** Softix 💡
-* **Married to** E 💕
+<img src="https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=radical&hide_border=true&locale=es&border_radius=15" width="49%" alt="Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=radical&hide_border=true&locale=es&border_radius=15" width="49%" alt="Stats"/>
+
+</div>
+
+### 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=angeelvaleen&theme=radical&no-frame=true&column=4&margin-w=15&row=1" alt="Trophies"/>
+</div>
 
 ---
 
-<div align=">
+### 🛠️ Tech Stack
 
-## GitHub Stats & Languages 📊
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=sakura-x&hide_border=true&locale=es&short_numbers=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://github.com/angeelvaleen)
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" height="38"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" height="38"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="38"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" height="38"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" height="38"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="38"/>
+  
+</div>
 
 ---
-### Tech Stack & Tools
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
----
+### 🌐 Connect
 
-### Connect with me
+<div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/valencia-lopez-556499317?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](#)
-[<img src="https://img.shields.io/badge/Angeel.System-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://www.instagram.com/angeel.system/)
-[<img src="https://img.shields.io/badge/Softix.oficial-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://www.instagram.com/softix.oficial/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valencia-lopez-556499317)
+[![Instagram](https://img.shields.io/badge/Angeel.System-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeel.system/)
+[![Instagram](https://img.shields.io/badge/Softix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/softix.oficial/)
 
+</div>
+
+<div align="center">
+  <strong>Made with passion in México 🇲🇽</strong><br>
+  <i>Innovando el frontend, un pixel a la vez ✨</i>
 </div>
