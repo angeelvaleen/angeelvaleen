@@ -1,59 +1,100 @@
 <div align="center">
-  <img src="logo3.jpeg" alt="Angeel System" width="720" style="border-radius:20px; box-shadow: 0 10px 30px rgba(59,130,246,0.3);"/>
-  
-  <h1>Hey, I'm Ángel Valencia 👋</h1>
-  <h3>Full Frontend Developer • México 🇲🇽</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=angeelvaleen&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views"/>
+<img src="./logo3.jpeg" alt="Angeel System" width="700"/>
+
+# 👋 Hey, I'm Ángel Valencia
+
+### Frontend Developer | React • Next.js • TypeScript • México 🇲🇽
+
+<img src="https://komarev.com/ghpvc/?username=angeelvaleen&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
 ---
 
-### 🔥 Racha Actual
+# 🚀 About Me
+
+- 💻 Frontend Developer focused on modern web applications.
+- ⚛️ Passionate about React, Next.js and TypeScript.
+- 🌱 Currently learning Backend Architecture and Cloud.
+- 🎯 Always looking to build clean, scalable and performant applications.
+
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=angeelvaleen&theme=radical&locale=es&hide_border=true&border_radius=16" alt="GitHub Streak"/>
-  </a>
-</div>
 
-### 📊 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=angeelvaleen&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=radical&hide_border=true&locale=es&border_radius=16" alt="GitHub Stats"/>
-</div>
-
-### 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angeelvaleen&theme=radical&no-frame=true&column=4&margin-w=15" alt="Trophies"/>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="38"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="38"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="38"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="38"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="38"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🌐 Connect
+# 📈 Activity Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valencia-lopez-556499317)
-[![Instagram](https://img.shields.io/badge/Angeel.System-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeel.system/)
-[![Instagram](https://img.shields.io/badge/Softix.oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/softix.oficial/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=angeelvaleen&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
+---
+
+# 🏆 GitHub Trophies
+
 <div align="center">
-  <i>Innovando el frontend, un pixel a la vez ✨</i>
+
+<img src="https://github-profile-trophy.vercel.app/?username=angeelvaleen&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mysql,postgres,docker,git,github,vscode,vite"/>
+
+</div>
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/valencia-lopez-556499317">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/angeel.system/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://github.com/angeelvaleen">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building modern web experiences, one project at a time.
+
 </div>
