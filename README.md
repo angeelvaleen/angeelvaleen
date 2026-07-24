@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./logo3.jpeg" alt="Angeel System" width="700"/>
+<a href="https://angeelsystem.vercel.app/" target="_blank" title="Visit Angeel System">
+  <img src="./logo3.jpeg" alt="Angeel System" width="700"/>
+</a>
 
 # 👋 Hey, I'm Ángel Valencia
 
@@ -29,17 +31,6 @@
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -56,9 +47,11 @@
 # 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=angeelvaleen&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-Developer-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
 </div>
 
 ---
