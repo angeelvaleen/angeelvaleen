@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/angeelvaleen/angeelvaleen/blob/main/logo3.jpeg" alt="Angeel System" width="720" style="border-radius:20px; box-shadow: 0 10px 30px rgba(59,130,246,0.25);"/>
+  <img src="logo3.jpeg" alt="Angeel System" width="720" style="border-radius:20px; box-shadow: 0 10px 30px rgba(59,130,246,0.3);"/>
   
   <h1>Hey, I'm Ángel Valencia 👋</h1>
   <h3>Full Frontend Developer • México 🇲🇽</h3>
@@ -9,11 +9,18 @@
 
 ---
 
-### 📊 Activity & Stats
+### 🔥 Racha Actual
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=angeelvaleen&theme=radical&hide_border=true&locale=es&border_radius=16" width="49%" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=radical&hide_border=true&locale=es&border_radius=16" width="49%" alt="Stats"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=angeelvaleen&theme=radical&locale=es&hide_border=true&border_radius=16" alt="GitHub Streak"/>
+  </a>
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=radical&hide_border=true&locale=es&border_radius=16" alt="GitHub Stats"/>
 </div>
 
 ### 🏆 Trofeos
@@ -27,12 +34,12 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" height="38"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="38"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="38"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="38"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="38"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="38"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="38"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="38"/>
 </div>
 
 ---
