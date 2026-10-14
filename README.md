@@ -1,71 +1,83 @@
-<div align="center">
-  <a href="https://angeelsystem.vercel.app/" title="Visitar mi portafolio">
-    <img src="./logo3.jpeg" alt="AngeelSystem — portafolio de Ángel Valencia" width="780" />
+<p align="center">
+  <a href="https://angeelsystem.vercel.app/" title="Explorar mi portafolio">
+    <img src="./logo3.jpeg" alt="AngeelSystem — Portafolio de Ángel Valencia" width="780" />
   </a>
+</p>
 
-  # Ángel Valencia
-
-  **Desarrollo frontend · React · JavaScript · Aplicaciones web**
-
+<h1 align="center">Ángel Valencia</h1>
+<p align="center">
+  <strong>Desarrollo web · React · JavaScript · Soluciones digitales</strong><br>
   Estudiante de Ingeniería en Sistemas Computacionales · México 🇲🇽
+</p>
 
-  [**Portafolio**](https://angeelsystem.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/valencia-lopez-556499317) · [**Contacto**](mailto:angeelsystem@gmail.com)
-</div>
+<p align="center">
+  <a href="https://angeelsystem.vercel.app/">Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/valencia-lopez-556499317">LinkedIn</a> ·
+  <a href="mailto:angeelsystem@gmail.com">Correo</a>
+</p>
 
 ---
 
-### Sobre mí
+### 👋 Sobre mí
 
-Me interesa construir aplicaciones web que sean claras, funcionales y fáciles de mantener. Disfruto transformar necesidades reales en interfaces útiles, integrar funcionalidades y aprender a partir de proyectos que puedo probar y mejorar.
+Soy estudiante de **Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Villahermosa** y me enfoco en el desarrollo de aplicaciones web, especialmente interfaces con **React y JavaScript**.
 
-Actualmente curso **Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Villahermosa**. Mi enfoque principal es el **desarrollo frontend**, con experiencia práctica en proyectos con React y Vite y exploración de herramientas del lado del servidor.
+Uso este espacio con dos propósitos: **mostrar mi trabajo a equipos y empresas** y **compartir proyectos que otros estudiantes puedan explorar como referencia**.
 
-> **Objetivo 2027:** realizar mi residencia profesional entre **enero y junio de 2027**, colaborando en desarrollo web o de software.
+No considero que un repositorio sea valioso solo por verse terminado: también importa explicar cómo funciona, qué decisiones se tomaron y qué falta mejorar.
 
-### Tecnologías y herramientas
+> **Mi enfoque:** construir, aprender, documentar y compartir. Prefiero mostrar código y resultados comprobables antes que atribuirme niveles de experiencia.
 
-| Área | Herramientas |
+### 🧰 Herramientas con las que trabajo
+
+| Área | Tecnologías y herramientas |
 | --- | --- |
 | **Frontend** | HTML, CSS, JavaScript, React, Vite |
-| **Desarrollo y colaboración** | Git, GitHub, npm, VS Code |
-| **Otras herramientas utilizadas** | Node.js, Express, despliegues con Vercel |
+| **Flujo de desarrollo** | Git, GitHub, npm, VS Code |
+| **Proyectos con servidor** | Node.js, Express |
+| **Publicación web** | Vercel |
 
-Me interesa seguir profundizando en **TypeScript, backend, APIs y arquitectura de aplicaciones**.
+**En aprendizaje continuo:** TypeScript, integración con APIs, backend, pruebas y arquitectura de software.
 
-### Proyectos
+### 🚀 Proyectos que puedes explorar
 
-#### ⚡ [SwitchLogic — gestión visual de switches](https://github.com/angeelvaleen/SwitchLogic)
-Aplicación web para organizar información de switches de red y sus puertos. Incluye formularios de configuración, estados, persistencia local y exportación de información a CSV.
+| Proyecto | Qué resuelve o muestra | Código y referencia |
+| --- | --- | --- |
+| **[SwitchLogic](https://github.com/angeelvaleen/SwitchLogic)** | Gestión visual de switches y puertos, formularios y exportación CSV con React. | [Repositorio](https://github.com/angeelvaleen/SwitchLogic) · [Demo](https://mi-red-seven.vercel.app/) |
+| **[BancoSys](https://github.com/angeelvaleen/Bancosys)** | Prototipo de atención bancaria y flujo de turnos con páginas HTML, CSS y JavaScript. | [Repositorio](https://github.com/angeelvaleen/Bancosys) |
+| **[Mi portafolio](https://github.com/angeelvaleen/mi-portafolio)** | Sitio personal construido con componentes reutilizables y navegación por secciones. | [Repositorio](https://github.com/angeelvaleen/mi-portafolio) · [Sitio](https://angeelsystem.vercel.app/) |
 
-**Tecnologías:** React, JavaScript, Vite.  
-[Ver código](https://github.com/angeelvaleen/SwitchLogic) · [Abrir demo](https://mi-red-seven.vercel.app/)
+Cada proyecto tiene un propósito distinto. También tiene aspectos que todavía puedo mejorar; los documentos de los repositorios explican sus alcances y limitaciones.
 
-#### 🏦 [BancoSys — atención bancaria](https://github.com/angeelvaleen/Bancosys)
-Proyecto web con interfaces para distintos momentos del proceso de atención bancaria, incluyendo recepción, monitoreo y paneles de operación.
+### 📖 ¿Estás aprendiendo desarrollo? Empieza por aquí
 
-**Tecnologías visibles en el repositorio:** HTML, CSS, JavaScript.  
-[Ver código](https://github.com/angeelvaleen/Bancosys)
+Este GitHub también está pensado para quienes estudian programación y buscan ejemplos que puedan leer, ejecutar y cuestionar.
 
-#### 🌐 [Portafolio personal](https://github.com/angeelvaleen/mi-portafolio)
-Sitio donde reúno mi perfil, proyectos y medios de contacto. Desarrollado con componentes de React, navegación por secciones y una interfaz personalizada.
+1. **Si estás empezando con interfaces web:** revisa las páginas y el flujo de turnos de [BancoSys](https://github.com/angeelvaleen/Bancosys).
+2. **Si ya estás aprendiendo React:** explora el estado, los componentes y la exportación CSV de [SwitchLogic](https://github.com/angeelvaleen/SwitchLogic).
+3. **Si quieres crear tu portafolio:** consulta la estructura y los comandos de [mi-portafolio](https://github.com/angeelvaleen/mi-portafolio).
 
-**Tecnologías:** React, Vite, JavaScript; Node.js y Express para componentes del servidor.  
-[Ver código](https://github.com/angeelvaleen/mi-portafolio) · [Visitar portafolio](https://angeelsystem.vercel.app/)
+Mi intención no es presentar estos proyectos como plantillas perfectas. **También se aprende revisando sus decisiones, identificando limitaciones y proponiendo mejoras.**
 
-### Qué busco aportar
+### 🎯 Objetivos y próximos pasos
 
-- Desarrollar interfaces **responsivas, accesibles y mantenibles**.
-- Integrar funcionalidades y conectar componentes con servicios web.
-- Trabajar con Git y GitHub, recibir revisiones de código y documentar lo construido.
-- Aprender de un equipo de desarrollo mientras aporto soluciones concretas.
+- [x] Publicar proyectos propios con código consultable.
+- [x] Documentar el propósito y la ejecución de mis proyectos principales.
+- [ ] Agregar capturas de pantalla y recorridos de uso.
+- [ ] Incorporar pruebas y revisar accesibilidad.
+- [ ] Seguir mejorando la organización del código y el tratamiento de datos.
+- [ ] Compartir aprendizajes técnicos y soluciones que puedan servir a otros.
+
+### 🤝 Colaboraciones y oportunidades
+
+Estoy abierto a **colaboraciones técnicas, proyectos de desarrollo web y oportunidades para seguir creciendo profesionalmente**.
+
+También busco realizar mi **residencia profesional de enero a junio de 2027**, preferentemente en desarrollo frontend o software, aportando en proyectos reales y trabajando con un equipo.
+
+Si te interesa revisar mi trabajo, dar retroalimentación o proponer una colaboración, puedes contactarme:
+
+**[angeelsystem@gmail.com](mailto:angeelsystem@gmail.com)** · **[Portafolio](https://angeelsystem.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/valencia-lopez-556499317)**
 
 ---
 
-<div align="center">
-  <strong>¿Tienes un proyecto o una oportunidad de residencia profesional?</strong>
-
-  Puedes escribirme a **[angeelsystem@gmail.com](mailto:angeelsystem@gmail.com)**  
-  o consultar mi **[portafolio](https://angeelsystem.vercel.app/)**.
-
-  <sub>Menos insignias, más proyectos que se pueden revisar.</sub>
-</div>
+<p align="center"><em>Construir algo útil es importante. Entenderlo, mejorarlo y compartir lo aprendido también.</em></p>
