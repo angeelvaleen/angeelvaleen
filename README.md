@@ -1,127 +1,71 @@
-<!-- Banner con enlace a tu portafolio -->
 <div align="center">
-  <a href="https://angeelsystem.vercel.app/" target="_blank" title="Visita AngeelSystem">
-    <img src="./logo3.jpeg" alt="AngeelSystem — Soluciones Web Escalables" width="850"/>
+  <a href="https://angeelsystem.vercel.app/" title="Visitar mi portafolio">
+    <img src="./logo3.jpeg" alt="AngeelSystem — portafolio de Ángel Valencia" width="780" />
   </a>
-</div>
 
-<br>
+  # Ángel Valencia
 
-<!-- Título principal -->
-<div align="center">
-  <h1>👋 ¡Hola! Soy Ángel Valencia</h1>
-  <h3>Ingeniero en Sistemas | Desarrollador Full Stack | Líder de SOFTIX 🚀</h3>
-  <p>Frontend Developer con IA • React • Next.js • TypeScript • Ciberseguridad • México 🇲🇽</p>
-  <img src="https://komarev.com/ghpvc/?username=angeelvaleen&label=Visitas+al+perfil&color=0e75b6&style=for-the-badge&locale=es" alt="Visitas al perfil" />
-</div>
+  **Desarrollo frontend · React · JavaScript · Aplicaciones web**
 
----
+  Estudiante de Ingeniería en Sistemas Computacionales · México 🇲🇽
 
-## 🚀 Sobre mí
-
-> Construyendo software robusto con la disciplina del gimnasio. Especializado en arquitecturas limpias, escalables y seguras. ⚡
-
-- 💻 Desarrollador enfocado en **aplicaciones web modernas y de alto rendimiento**
-- ⚛️ Especialista en **React, Next.js y TypeScript**
-- 🧠 Uso IA como copiloto para planificar arquitecturas, acelerar desarrollo y mejorar seguridad
-- ☁️ Aprendiendo **Backend y Arquitectura en la Nube**
-- 🛡️ Enfoque en **ciberseguridad defensiva** desde el diseño del código
-- 🎯 Siempre creando soluciones **limpias, escalables y mantenibles**
-- 💍 Comprometido con mi familia ❤️
-- 🐶 Amante de los perros • 💪 Entusiasta del gimnasio
-- 📍 Villahermosa, Tabasco • México 🇲🇽
-
----
-
-## 🧠 Mi Flujo de Trabajo
-
-| Etapa | Enfoque |
-|---|---|
-| 📐 **Arquitectura & Planificación** | Diseño de bases de datos y arquitectura escalable con asistencia de IA |
-| 🎨 **Desarrollo Frontend** | React + Vite / Next.js • Componentes reutilizables • UI moderna |
-| ⚙️ **Lógica Backend** | Node.js, PHP, APIs robustas • Depuración inteligente |
-| 🔒 **Seguridad Defensiva** | Auditoría de código • Protección de endpoints • Linux |
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=angeelvaleen&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=angeelvaleen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeelvaleen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" height="160" />
+  [**Portafolio**](https://angeelsystem.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/valencia-lopez-556499317) · [**Contacto**](mailto:angeelsystem@gmail.com)
 </div>
 
 ---
 
-## 🏆 Insignias y Logros
+### Sobre mí
 
-<div align="center">
+Me interesa construir aplicaciones web que sean claras, funcionales y fáciles de mantener. Disfruto transformar necesidades reales en interfaces útiles, integrar funcionalidades y aprender a partir de proyectos que puedo probar y mejorar.
 
-![React](https://img.shields.io/badge/React-Experto-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-Desarrollador-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-Avanzado-3178C6?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs)
-![PHP](https://img.shields.io/badge/PHP-Senior-777BB4?style=for-the-badge&logo=php)
-![Open Source](https://img.shields.io/badge/Código_Abierto-Contribuidor-exitoso?style=for-the-badge)
+Actualmente curso **Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Villahermosa**. Mi enfoque principal es el **desarrollo frontend**, con experiencia práctica en proyectos con React y Vite y exploración de herramientas del lado del servidor.
 
-</div>
+> **Objetivo 2027:** realizar mi residencia profesional entre **enero y junio de 2027**, colaborando en desarrollo web o de software.
 
----
+### Tecnologías y herramientas
 
-## 🛠️ Stack Tecnológico
+| Área | Herramientas |
+| --- | --- |
+| **Frontend** | HTML, CSS, JavaScript, React, Vite |
+| **Desarrollo y colaboración** | Git, GitHub, npm, VS Code |
+| **Otras herramientas utilizadas** | Node.js, Express, despliegues con Vercel |
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,php,mysql,postgres,docker,linux,git,github,vscode" alt="Tecnologías" />
-</div>
+Me interesa seguir profundizando en **TypeScript, backend, APIs y arquitectura de aplicaciones**.
 
-**Backend:** PHP, Node.js, Express, MySQL, PostgreSQL, PDO/SQL  
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML/CSS, Vite, Tailwind  
-**Infraestructura:** Docker, Linux, Apache, Git  
-**Otros:** C++, Python, Socket.io
+### Proyectos
 
----
+#### ⚡ [SwitchLogic — gestión visual de switches](https://github.com/angeelvaleen/SwitchLogic)
+Aplicación web para organizar información de switches de red y sus puertos. Incluye formularios de configuración, estados, persistencia local y exportación de información a CSV.
 
-## 💼 Proyectos Destacados
+**Tecnologías:** React, JavaScript, Vite.  
+[Ver código](https://github.com/angeelvaleen/SwitchLogic) · [Abrir demo](https://mi-red-seven.vercel.app/)
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| **Bancosys** | Automatización de flujos y lógica de control. Arquitectura modular enfocada en rendimiento. | React + Vite |
-| **SwitchLogic** | Sistema de configuración y lógica de red. Interfaz moderna y escalable. | JavaScript |
-| **Sistema Azteca** | Solución web en desarrollo con arquitectura completa. | Full Stack |
-| **mi-portafolio** | Portafolio personal con trayectoria y proyectos. | React / Next.js |
-| **AngeelSystem** | Sitio oficial • Soluciones web claras y escalables. | React + Vite |
+#### 🏦 [BancoSys — atención bancaria](https://github.com/angeelvaleen/Bancosys)
+Proyecto web con interfaces para distintos momentos del proceso de atención bancaria, incluyendo recepción, monitoreo y paneles de operación.
 
----
+**Tecnologías visibles en el repositorio:** HTML, CSS, JavaScript.  
+[Ver código](https://github.com/angeelvaleen/Bancosys)
 
-## 🌎 Conéctate conmigo
+#### 🌐 [Portafolio personal](https://github.com/angeelvaleen/mi-portafolio)
+Sitio donde reúno mi perfil, proyectos y medios de contacto. Desarrollado con componentes de React, navegación por secciones y una interfaz personalizada.
 
-<div align="center">
+**Tecnologías:** React, Vite, JavaScript; Node.js y Express para componentes del servidor.  
+[Ver código](https://github.com/angeelvaleen/mi-portafolio) · [Visitar portafolio](https://angeelsystem.vercel.app/)
 
-  [<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/valencia-lopez-556499317)
-  &nbsp;
-  [<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />](https://instagram.com/angeel.system)
-  &nbsp;
-  [<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />](https://github.com/angeelvaleen)
-  &nbsp;
-  [<img src="https://skillicons.dev/icons?i=mail" height="40" alt="Correo" />](mailto:angeelsystem@gmail.com)
+### Qué busco aportar
 
-  <br><br>
-
-  🌐 **Portafolio:** [angeelsystem.vercel.app](https://angeelsystem.vercel.app/)  
-  📧 **Correo:** angeelsystem@gmail.com  
-  📸 **SOFTIX:** [@softix.oficial](https://instagram.com/softix.oficial)  
-  📜 **Certificaciones:** [Credly](https://www.credly.com/users/angelica-valencia-lopez.d2302c9b/badges#credly)
-
-</div>
+- Desarrollar interfaces **responsivas, accesibles y mantenibles**.
+- Integrar funcionalidades y conectar componentes con servicios web.
+- Trabajar con Git y GitHub, recibir revisiones de código y documentar lo construido.
+- Aprender de un equipo de desarrollo mientras aporto soluciones concretas.
 
 ---
 
 <div align="center">
+  <strong>¿Tienes un proyecto o una oportunidad de residencia profesional?</strong>
 
-### ✨ Construyendo experiencias web modernas, un proyecto a la vez.
+  Puedes escribirme a **[angeelsystem@gmail.com](mailto:angeelsystem@gmail.com)**  
+  o consultar mi **[portafolio](https://angeelsystem.vercel.app/)**.
 
-> *"Arquitectura, código limpio y seguridad en cada línea."* — AngeelSystem 🇲🇽
-
+  <sub>Menos insignias, más proyectos que se pueden revisar.</sub>
 </div>
